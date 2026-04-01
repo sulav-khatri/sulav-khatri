@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  17-year-old tech enthusiast & aspiring entrepreneur<br>
+  17 year-old tech enthusiast & aspiring entrepreneur<br>
   from Pokhara, Nepal 🇳🇵<br>
   Currently learning Python • Exploring startups & innovation
 </p>
@@ -27,29 +27,16 @@
 
 ## About Me
 
-- 🎯 **Passionate about**: Technology, programming, startups, and building things that matter
-- 🌱 **Currently learning**: Python, automation, scripting, and basic software development
-- 🔭 **Exploring**: Startup ideas, tech trends, and open-source contributions
-- 📍 **Based in**: Pokhara, Nepal (with roots in beautiful Gandaki Province)
+- **Passionate about**: Technology, programming, startups, and building things that matter
+- **Currently learning**: Python, automation, scripting, and basic software development
+- **Exploring**: Startup ideas, tech trends, and open-source contributions
+- **Based in**: Pokhara, Nepal (with roots in beautiful Gandaki Province)
 
 ## Tech I'm Working With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode&perline=6" alt="tech stack" />
 </p>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulav-khatri&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulav-khatri&theme=radical&hide_border=true" width="48%" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulav-khatri&layout=compact&theme=radical&hide_border=true&langs_count=6" width="55%" alt="Top Languages" />
-</div>
-
-<br>
 
 ## Let's Connect
 
